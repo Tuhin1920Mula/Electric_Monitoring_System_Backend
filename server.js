@@ -87,7 +87,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://electric-frontend-ashen.vercel.app", // ✅ change this to your frontend URL
+      "https://electric-monitoring-system-frontend.vercel.app", // change this to your frontend URL
     ],
     methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
     credentials: true,
