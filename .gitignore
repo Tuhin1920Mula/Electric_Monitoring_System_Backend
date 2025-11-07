@@ -22,3 +22,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+Hemraj_Electric_Management_System\BackEnd\.env.development
