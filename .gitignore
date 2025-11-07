@@ -23,4 +23,4 @@ dist-ssr
 *.sln
 *.sw?
 
-Hemraj_Electric_Management_System\BackEnd\.env.development
+Hemraj_Electric_Management_System/BackEnd/.env.development
